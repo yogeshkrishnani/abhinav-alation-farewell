@@ -42,6 +42,13 @@ export const timeline = [
     image: "/images/placeholder.jpg",
   },
   {
+    date: "Nov 2024",
+    title: "Support Efficiency Squad",
+    description:
+      "Joined the Support Efficiency team. Built Alasight and Alamigo — the AI assistant he named himself.",
+    image: "/images/placeholder.jpg",
+  },
+  {
     date: "Jan 2025",
     title: "Pondicherry & Auroville Trip",
     description:
