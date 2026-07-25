@@ -51,11 +51,6 @@ export default function Gallery() {
                 </div>
                 <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors duration-300" />
               </div>
-              {item.caption && (
-                <p className="mt-2 text-sm text-[#2D2D2D]/50 font-inter">
-                  {item.caption}
-                </p>
-              )}
             </motion.div>
           ))}
         </div>
@@ -87,11 +82,6 @@ export default function Gallery() {
                   className="object-contain"
                 />
               </div>
-              {selected.caption && (
-                <p className="text-center text-white/70 mt-4 font-inter">
-                  {selected.caption}
-                </p>
-              )}
               <button
                 onClick={() => setSelected(null)}
                 className="absolute -top-12 right-0 text-white/70 hover:text-white transition-colors"

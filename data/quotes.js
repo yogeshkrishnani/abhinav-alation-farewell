@@ -1,18 +1,18 @@
 export const quotes = [
   {
     text: "Let's go!",
-    context: "— His signature call before every outing",
+    context: "— Before every outing, every trip, every plan",
   },
   {
-    text: "Besan lete hue jana.",
-    context: "— The running joke that became legend",
+    text: "I am in for anything that we plan.",
+    context: "— Every. Single. Time.",
   },
   {
-    text: "I'll figure it out.",
-    context: "— Said calmly, then actually figured it out every single time",
+    text: "Kal office aya tha ye sochke ki koi to mil jayega.",
+    context: "— Came to office hoping someone would be there. That's AK.",
   },
   {
-    text: "Non-negotiable.",
-    context: "— On dosa and filter coffee at Carnatic Cafe",
+    text: "Daudega.",
+    context: "— When asked if something will work",
   },
 ];

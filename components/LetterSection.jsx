@@ -22,10 +22,7 @@ export default function LetterSection({ contributor, index }) {
             transition={{ duration: 0.7 }}
             className="md:w-1/2 order-2 md:order-none"
           >
-            <span className="text-sm uppercase tracking-[0.2em] text-[#D4A373] font-inter font-medium">
-              {contributor.role}
-            </span>
-            <h3 className="font-playfair text-3xl md:text-4xl text-[#2D2D2D] mt-3 mb-8">
+            <h3 className="font-playfair text-3xl md:text-4xl text-[#2D2D2D] mb-8">
               {contributor.name}
             </h3>
             <div className="space-y-4">

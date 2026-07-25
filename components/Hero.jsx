@@ -7,7 +7,7 @@ export default function Hero() {
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       <div
         className="absolute inset-0 bg-cover bg-center"
-        style={{ backgroundImage: "url('/images/placeholder.jpg')" }}
+        style={{ backgroundImage: "url('/images/IKO.JPG')" }}
       >
         <div className="absolute inset-0 bg-[#FAF9F6]/85" />
       </div>
