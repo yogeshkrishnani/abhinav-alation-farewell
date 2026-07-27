@@ -96,6 +96,24 @@ export const contributors = [
       "AK is very good to work with and to enjoy with as well. We have good work moments and some amazing fun moments, be it cricket in Ahmedabad, fun dinners or outings in Chennai.\n\nHe always has the habit of having a light meal and being very choosy about what he eats, which certainly catches my attention every time as to what will he have today! 😂\n\nNo matter where he will go, and do, he will bring in fun, enthusiasm and lots of goodness to it. He is an amazing human being and that's what I really appreciate about him.\n\nWish you all the best for all the future endeavours!\n\nAnd.... Don't you dare miss any box cricket with us!! 🏏",
   },
   {
+    name: "Bhaumik Panchal",
+    photo: "/images/Bhaumik.jpeg",
+    letter:
+      "It's hard to believe we've been working together for almost seven years! From our days at Infor, where we were on the same team, to meeting again at Alation (even though we're in different teams now), it's been an incredible journey.\n\nWe've shared so many great memories over the years — team lunches, dinners, outings, and countless conversations. My favourite has to be our trip to Mysuru after the Alation Bangalore event. It was such a fun and relaxing trip, and it's one of those memories I'll always look back on with a smile.\n\nI've always admired how approachable, supportive, and dependable you are. No matter the situation, you've been someone people can count on, and it's been a privilege to work alongside you for all these years.\n\nWishing you nothing but success, happiness, and exciting new adventures in the next chapter of your journey. I'm sure you'll do great wherever you go. Stay in touch, and here's to creating many more memories together!",
+  },
+  {
+    name: "Jaysheel Goda",
+    photo: "/images/Jaysheel.jpg",
+    letter:
+      "Hey Abhinav,\n\nAs we look back, I have had a great time in our 'walk and talk' sessions covering wide topics be it work, music, college, travel experiences or food.\n\nI've always found you a humble person, who is eager to learn new things and who makes good conversations with everyone.\n\nYou will be definitely missed including in trying out the mocktails, jamun kulfis or playing cricket.\n\nWishing you the best for your next endeavours and making new connections while nourishing the existing ones. 🎊🎉",
+  },
+  {
+    name: "Tapish Ojha",
+    photo: "/images/Tapish.jpeg",
+    letter:
+      "It was a real pleasure working with you on the Coveo/Onyx POC. I learned a lot from your thorough approach, your energy, and the clear way you presented your ideas.\n\nOn a personal note, thanks so much for joining our Mafia nights, you made those games so much fun!\n\nWishing you all the absolute best in your next chapter. I have no doubt you'll crush it wherever you go, and I hope we stay in touch!",
+  },
+  {
     name: "Nikunj Vinchhi",
     photo: "/images/Nikunj.png",
     letter:
