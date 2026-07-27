@@ -53,7 +53,7 @@ export default function LetterSection({ contributor, index }) {
                 src={contributor.photo}
                 alt={`Photo with ${contributor.name}`}
                 fill
-                className="object-cover"
+                className="object-cover object-top"
               />
             </div>
           </motion.div>
