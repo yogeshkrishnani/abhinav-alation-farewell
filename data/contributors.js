@@ -96,6 +96,12 @@ export const contributors = [
       "AK is very good to work with and to enjoy with as well. We have good work moments and some amazing fun moments, be it cricket in Ahmedabad, fun dinners or outings in Chennai.\n\nHe always has the habit of having a light meal and being very choosy about what he eats, which certainly catches my attention every time as to what will he have today! 😂\n\nNo matter where he will go, and do, he will bring in fun, enthusiasm and lots of goodness to it. He is an amazing human being and that's what I really appreciate about him.\n\nWish you all the best for all the future endeavours!\n\nAnd.... Don't you dare miss any box cricket with us!! 🏏",
   },
   {
+    name: "Nikunj Vinchhi",
+    photo: "/images/Nikunj.png",
+    letter:
+      "Working with you has genuinely been a pleasure. You are always the person people can count on for help. Whatever you do next, I know you'll bring the same energy and kindness. All the best, and let's stay in touch!",
+  },
+  {
     name: "Parth Hirpara",
     photo: "/images/Parth.jpg",
     letter:
