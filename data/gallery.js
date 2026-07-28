@@ -20,4 +20,5 @@ export const gallery = [
   { src: "/images/memories/IMG20240517221759.jpg", alt: "Memory" },
   { src: "/images/memories/IMG20250111070509.jpg", alt: "Memory" },
   { src: "/images/memories/IMG20250111154347.jpg", alt: "Memory" },
+  { src: "/images/memories/IMG_1289.jpeg", alt: "Memory" },
 ];

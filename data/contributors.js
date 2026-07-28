@@ -114,6 +114,12 @@ export const contributors = [
       "It was a real pleasure working with you on the Coveo/Onyx POC. I learned a lot from your thorough approach, your energy, and the clear way you presented your ideas.\n\nOn a personal note, thanks so much for joining our Mafia nights, you made those games so much fun!\n\nWishing you all the absolute best in your next chapter. I have no doubt you'll crush it wherever you go, and I hope we stay in touch!",
   },
   {
+    name: "Soham Soneji",
+    photo: "/images/Soham.jpg",
+    letter:
+      "Four years is a long time, and looking back, it's been great sharing this journey at Alation with you. Even though we didn't get to work closely together, one thing that always stood out was how approachable and helpful you were. Whenever someone reached out, you were always there without hesitation. That's the kind of thing people remember long after the projects and meetings are over.\n\nBeyond work, it's been fun sharing the IKOs, hackathon meetups, team outings - and all the random conversations in between. Somehow, you were always the person who knew exactly where to go, what to eat and how to make any plan worth showing up for. 😄\n\nI'll definitely miss your positive energy and how effortlessly you connected with everyone around you. You had a way of making people feel comfortable, whether they needed help or just wanted to chat, and that made a real difference.\n\nWishing you all the very best for what's next. I hope it brings exciting opportunities, memorable trips, great food, and teammates who appreciate you as much as we did. 😉 Good luck, and stay in touch! 🙌",
+  },
+  {
     name: "Nikunj Vinchhi",
     photo: "/images/Nikunj.png",
     letter:
